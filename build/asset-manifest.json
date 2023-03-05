@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Quora-Clone/static/css/main.11a6bdb3.css",
+    "main.js": "/Quora-Clone/static/js/main.ae739d0d.js",
+    "static/js/787.fe1e87e5.chunk.js": "/Quora-Clone/static/js/787.fe1e87e5.chunk.js",
+    "index.html": "/Quora-Clone/index.html",
+    "main.11a6bdb3.css.map": "/Quora-Clone/static/css/main.11a6bdb3.css.map",
+    "main.ae739d0d.js.map": "/Quora-Clone/static/js/main.ae739d0d.js.map",
+    "787.fe1e87e5.chunk.js.map": "/Quora-Clone/static/js/787.fe1e87e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11a6bdb3.css",
+    "static/js/main.ae739d0d.js"
+  ]
+}
